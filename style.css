@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    transition-behavior: inherit;
+}
+button {
+    background-color: lightgray;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
